@@ -1,4 +1,4 @@
 # Chat-GPT
 Ai-Chat
 
-online: https://chatgpt.sbaliyun.com/
+online: https://nieyurong.com/chatGPT
